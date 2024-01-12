@@ -1,0 +1,27 @@
+---
+title: "The Pass Effect"
+date: 2007-12-05
+---
+So, I've been playing Mass Effect lately. Or more to the point, I've been *hating* Mass Effect lately. Don't get me wrong, I want to like it. The dialogue is fantastic, and gives a level of maturity to Bioware games that's been solely lacking.
+
+Now, if only they could manage to make a good game. The more I play Mass Effect, the more angry I get at it. Why play if you are angry, you ask? Because hidden in there, beyond the horrible interface, poorly implemented action, and generic filler quests, is a good game. I think.
+
+The soundtrack is amazing. The visuals (after ten seconds of loading, anyway) are top notch. Despite obvious frame rate issues. But the interface... Let's just say, I can't believe no one at Bioware sat down and said "You know, this inventory system sucks. A lot. Maybe we should fix it?" It's painful to use. It's slow to use. There's no sorting options. Managing your equipment is a pain. And it doesn't conform to any commonly used interface conventions. For instance, when I'm looking through upgrades for a weapon/armor, why can't I hit the B button to cancel? Instead, I have to scroll all the way back to the top of the list (in an extremely slow fashion, as there is an arbitrary scrolling speed imposed by their mini-animation), and then reselect the upgrade I started with.
+
+And that's only one of the many oversights. For example, there's a handy store on your ship. But you can't compare any of the items in that store to any of your party members, because when you are on your ship, you are alone. So if you want to upgrade your sidekicks in between missions, you either write down all their stats on a sheet of paper (how retro!), or you spend all your time memorizing a set of stats, and checking it against the store.
+
+Inventory management quickly becomes a chore that you have to stay on top of, or face the consequences. When you kill enemies, items magically end up in your inventory. So when you hit your equipment screen, you are helpfully confronted with a giant useless dialog showing you all the cool neat stuff you've recieved, with such helpful information as "Polonium" and "Phoenix" with an option to turn it in to omni-goo, which is a magical substance that hacks for you, and heals you, et cetera. Now, the catch is that if you don't keep your inventory clean, you'll hit a magical arbitrary limit where the game forces you to nuke everything you get at that screen, before you can figure out what any of it does.
+
+And then there's the action. It's functional, but barely. The cover system is a weak and buggy copy of Gears of War, coupled with an attempt at strategy partially in line with Rainbow Six Vegas.  The combat has little or no feedback with your normal weapons. Enemies can often one shot you (even on Easy mode, there's still times where I'll get owned by a shot from a powerful enemy, in one hit). Your party is effectively useless, spending most of their time standing out in the open and dying, or alternately, firing blindly in to a wall or crate. That's when they are actually following you, and not bugged out, standing still, and only teleporting to you when you get out of range.
+
+And then there's the vehicle combat and controls, which are barely tolerable, and feel like the bare minimum. I've done Unreal Engine development before, and the vehicle combat in this game feels a hell of a lot like the default test vehicle that comes with the engine. It feels as if there was no extra work put in to the controls, or the camera, or the shooting.
+
+Ultimately, the whole game just screams "Unfinished." It's like an Alpha that doesn't crash. They didn't bother taking any time to fix the little issues (Like getting stuck in walls, or your sidekicks not following you, or game balance), and instead just shipped it as it was.
+
+I'm hard pressed to think of any RPG this buggy since the original Gothic. And that's saying a lot, because at least Gothic tried to do new and interesting things. Mass Effect is the same old Bioware formula, packaged in a visually appealing (once it loads) setting. The one claim to innovation was supposed to be its dialogue system, which ultimately turned out to be a glorified "Press any key to Continue" prompt, as multiple replays of conversation very distinctly shows you that often, no matter what option you pick, your character will deliver the exact same line in the exact same way. Innovation is convincing someone you are moving forward, when actually, you are moving backward. Apparently.
+
+Those are just the major issues I have with the game. The minor issues are too numerous to count, starting from all planets/moons having the same gravity (including *our* moon), to sidekick quests being nothing more than looting a box on a specific planet. Especially disappointing given the story and detail of previous Bioware entries.
+
+And yet, despite all of this, I power on. Because I want to like it. But it's taking a lot of effort not to just take a pass on the game, and throw it on the pile with all the other "almost good" games that I'll never finish.
+
+That being said, I honestly can't understand all the glowing reviews. It's like I got a burn of an early alpha, while everyone else is playing the final game. Then again, maybe there's some magical turning point in the game where it becomes amazing. Maybe that's why I keep playing.

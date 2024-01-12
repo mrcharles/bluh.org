@@ -1,0 +1,35 @@
+baseURL = 'https://bluh.org/'
+languageCode = 'en-ca'
+title = 'bluh.org'
+theme = 'beautifulhugo'
+
+[Params]
+#  homeTitle = "where is this" # Set a different text for the header on the home page
+  subtitle = "i dont even know why i still host this"
+  logo = "img/profilesq.jpg" # Expecting square dimensions
+  mainSections = ["post","posts"]
+  selfHosted = true
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Charles"
+  instagram = "apalebluethought"
+  # this is band url only bandcamp = "charlesrandall"
+  mastodon = "https://grumble.social/@charlesrandall"
+  twitter = "grumble.social"
+  bandcamp = "charlesrandall"
+
+[[menu.main]]
+    name = "Games"
+    url = "https://www.mobygames.com/person/27177/charles-randall/"
+    weight = 1
+
+[[menu.main]]
+    name = "Linktree"
+    url = "https://linktr.ee/charlesrandall"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3

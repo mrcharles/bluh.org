@@ -1,0 +1,53 @@
+---
+title: "Super Metroid and The Exclusion of Control Mastery"
+date: 2013-04-30
+---
+I love Super Metroid. It is very easily one of my favorite games. I haven’t played it through in a while, but I have easily played through it 50 or more times. There was a time when I would do it as a relaxation exercise; I can beat the game in an hour and a half. Or I could, at some point.
+
+So I am definitely no slouch. I can also rack up a good amount of headshots in random FPS games. My reflexes are pretty good, and my control precision is still as good as it ever was. I think I killed almost every enemy in Bioshock Infinite with headshots.
+
+I spent a lot of time working on Assassin’s Creed 2 exploring the issues of reaction time, control responsiveness, and input lag. I had an entire chart that described minimum speed of enemy attacks so that the player could recognize the attack, and have time to react to it. If you play AC2 on a TV with less than 90ms of display latency, and your reaction time to visual stimulus is roughly average (250ms is a good baseline, and the one I worked from), I guarantee that you will almost never fail to land a counter on an enemy. Because I designed it that way, knowing how people’s reactions work, and how fast people can react. I *wanted* players to be able to perform counters with ease. Mostly, anyway, some attacks were meant to be borderline, or require more attention.
+
+But the point was, it was a research-driven approach which went out of its way to not only be inclusive, but attempt to address some of the common play scenarios that most players would see, and to be at least tolerable even on one of the dreadfully common HDTVs with really terrible display latency. Yet even with this approach, I hit edge cases I had to deal with. For instance, Pat Plourde, the Lead Designer, had slow thumbs. I made fun of him, but it was a very real problem that had to be addressed. Essentially, some of the combat actions had branching paths, where holding a button would have a different action versus just tapping it. These things are addressed by looking at how long the button is down, and if the button is down past a certain threshold, trigger the ‘hold’ behavior. The problematic threshold in this case was 0.2 seconds. Increasing it to 0.3 seconds solved it. He was unable to press and release the button reliably in 0.2 seconds, a thing which had never been a problem for me. And he’s not a bad gamer either. I can’t even come close to his Geometry Wars 2 scores (and god knows, I tried, that bastard).
+
+The reason for all this is that there are certain things that are difficult for some players to do, which are not a problem at all for other players. In some cases, those things can lead to situations where difficult becomes impossible. And those particular control issues are not necessarily related to how skilled a given player is.
+
+Now, back to Super Metroid. Over time, I have noticed that fans of Super Metroid have two distinct camps. One group loves Super Metroid for the exploration, sequence breaking, and power based map unlocks. The other group loves the super-fiddly controls of some sections of the game, and pride themselves on mastering it completely. I certainly fall into the former camp rather than the latter; to this day, wall jumping gives me some trouble here and there, and there’s a few upgrades I can’t reliably get to. But on the flip-side, I can still time a bomb-jump shortcut.
+
+I am quite sure that the second group also loves all the stuff that the first group does. But I think that in general the reverse is not true.
+
+Recently I discovered the existence of Super Metroid Eris, a fan rom-hack that effectively creates an entire sequel to the original game, all based on a hacked Super Metroid rom. As a technical feat, it is an amazing achievement. Unfortunately, the developers seem to be primarily part of group two. In the first few minutes I was presented with difficult control challenges and enemies that did significant damage such that I couldn’t take more than a handful of hits before I died. My enthusiasm for the game was crushed as easily as Samus. They seem to have focused on minute details of the controls in the original game and amplified them. Everything was an edge case jump, every action necessitated a very precise sequential set of controls.
+
+It wasn’t enjoyable.
+
+Flash forward and I am playing Guacamelee. I love it, but some of the control mastery challenges start getting really finicky. The combat is complex, and each challenge room takes me a few tries, but eventually I learn some new method of dealing with large amounts of enemies that I can add to my combat repertoire. Once learned, new encounters become manageable. Intense, but manageable.
+
+I loved almost everything about the game, until I acquired the double jump. Because at that point, they started weaving level switch, and double-jump wall jumps together. And that’s the point where the game created a barrier I could not pass.
+
+Up until that point, the majority of the control challenges involved coming up with a well timed sequence of inputs. This is a thing I can do. It takes more tries than I’d like, and sometimes the timing is really tight, but it’s okay because once you get it right, you are done and past it. I’ve even gone *backwards* through some of those sequences, which in at least one case I’m pretty sure wasn’t an expected feat.
+
+After that point, however, there’s one sequence that involves wall jumping many times in a row, using double jump, and switching worlds halfway through each jump in order to phase in and out the walls needed for the wall jump. And then, at the very top, the pattern changes; you have to counter the muscle-memory that set in over the previous six or seven wall jump world switch combos, and switch worlds early, and then uppercut to land on a new platform.
+
+Suddenly, I was 14 again, frustrated at my inability to wall jump out of that pit in Super Metroid. But this time, I’m not 14, and I don’t have the infinite patience required to try again for the twentieth or thirtieth time. And so, for now, I have to set the game aside.
+
+The problem with the sequence is two fold; one, it’s a complex set of inputs. As we’ve established, I can handle that. Two, it is repetition that results in a muscle memory, which then must be counteracted at the very end in order to pass the challenge. If there hadn’t been that repetition, I have no doubt at all that I would have passed the challenge after a handful of tries, but instead I face a brick wall. After ten minutes of trying, my hands ached from the strain of trying and failing.
+
+Muscle memory is an interesting beast, because it’s a hard thing to argue with. When it sets in, it allows for amazing things. I’d imagine anyone who has ever mastered a fighting game knows this. After a certain point, complex inputs are internalized, and there are no buttons anymore, just moves which are magically performed by your hands. But the problem is when there’s no context for that muscle memory, it can be very difficult to break a pattern, especially one based fully on repetition. Your brain doesn’t care how many times a pattern must repeat; it simply goes into autopilot and just *does it* until you decide to stop..
+
+So breaking a repetitive pattern incurs reaction time while the signals transmit to your hands. Perhaps for some people, this reaction time is quick enough that they can break the repetitive action to take a new action. However, in my case it is not.
+
+During the last CapyJam, Renaud and Qiqo made a very interesting game in which the controls were randomized; not only that, but executing a move required pressing three buttons simultaneously. It was an interesting experiment because of how thoroughly it relied on muscle memory to pass the level challenges. With every new game, you had to rediscover the controls, and then train yourself to associate a particular hand movement to represent duck, or jump. The more complex levels required stringing three different actions together in multiple sequential challenges. Where it broke down for most people was not learning to press a random three buttons simultaneously, but in figuring out how to remember three sets of muscle memory actions at once. It was extremely difficult, and communicated well the perils of relying on muscle memory for core gameplay.
+
+In the case of Guacamelee, I am sure that the devs meant well, and that the game didn’t pose a particular hurdle to them, and that it was built with all attention to being the quality kind of game that they love, but it certainly raises the issue how control mastery requirements are inherently exclusionary.
+
+If we go back to Super Metroid, almost all of the extremely difficult control challenges were related to finding optional upgrades. They were never part of the critical path, and even when training you to do something advanced, the game offered an alternate path to escape.
+
+This is because even in 1994, Nintendo knew to avoid exclusionary game design. The reason I, and many others, learned to wall jump, was not because they forced us to tackle an extremely difficult control challenge; it was because we didn’t *have* to tackle the control challenge. But there was something up there, and we wanted to know what it was. It was the carrot on the stick.
+
+When developing a game, it is especially easy to forget how long you have been playing it, and how much all those crazy controls and difficult challenges become internalized. It is natural to then go on to make a game that still poses a challenge, even with those skills. And in doing so, accidentally create a very steep difficulty curve for those players who don’t have the benefit of a year’s worth of play experience.
+
+If that is what the game is about, then by all means. Push it as far as it will go. But if the game is meant to be enjoyable by even those without the particular controller abilities that come naturally to some, it is in your best interest to identify those potentially difficult areas, and keep them off the beaten path.
+
+It is easy to assume that a gamer is either ‘good’ or ‘bad’ at games, but the truth actually varies drastically in between, and on various axes. Making sure game challenges are properly sorted along those axes allows for much more inclusive game design, and can avoid problematic game sections for players like myself, who have a particular quirk which makes very specific things overly difficult.
+
+Challenge is good; just make sure it is in the right place, for the right reasons.
