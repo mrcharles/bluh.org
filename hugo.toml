@@ -16,8 +16,8 @@ theme = 'beautifulhugo'
   instagram = "apalebluethought"
   # this is band url only bandcamp = "charlesrandall"
   mastodon = "https://grumble.social/@charlesrandall"
-  twitter = "grumble.social"
-  bandcamp = "charlesrandall"
+  bluesky = "grumble.social"
+  bandcampuser = "charlesrandall"
 
 [[menu.main]]
     name = "Games"
