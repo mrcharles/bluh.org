@@ -4,8 +4,9 @@ title = 'bluh.org'
 theme = 'beautifulhugo'
 
 [Params]
-#  homeTitle = "where is this" # Set a different text for the header on the home page
-  subtitle = "i dont even know why i still host this"
+  homeTitle = "Charles Randall" # Set a different text for the header on the home page
+  sitetitle = "asdasdf"
+  subtitle = "whatting the what?"
   logo = "img/profilesq.jpg" # Expecting square dimensions
   mainSections = ["post","posts"]
   selfHosted = true
