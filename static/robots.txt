@@ -1,0 +1,11 @@
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: bingbot #Microsoft
+User-agent: MSNBot #Microsoft
+User-agent: anthropic-ai
+User-agent: FacebookBot
+User-agent: GoogleOther
+User-agent: Webz.io
+Disallow: /
