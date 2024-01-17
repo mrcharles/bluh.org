@@ -22,7 +22,7 @@ theme = 'beautifulhugo'
 
 [[menu.main]]
     name = "Games"
-    url = "https://www.mobygames.com/person/27177/charles-randall/"
+    url = "page/games/"
     weight = 1
 
 [[menu.main]]
