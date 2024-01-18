@@ -26,11 +26,6 @@ theme = 'beautifulhugo'
     weight = 1
 
 [[menu.main]]
-    name = "Linktree"
-    url = "https://linktr.ee/charlesrandall"
-    weight = 1
-
-[[menu.main]]
     name = "About"
     url = "page/about/"
     weight = 3
