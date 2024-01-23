@@ -6,6 +6,8 @@ date: 2024-01-17
 ## Step 1
 Get annoyed at streaming services removing content that you have as a dvd. The whole point of streaming services was so that you didn't have to get your ass off the couch to watch a movie. 
 
+<!--more-->
+
 Install [Plex](https://www.plex.tv/en-ca/media-server-downloads/) on your NAS in order to stream your dvd rips you totally made yourself. 
 
 ## Step 2

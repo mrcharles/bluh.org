@@ -6,6 +6,8 @@ date: 2024-01-15
 
 I've never shared this story in public before, but since I seem to be going all out on making sure I burn bridges to prevent myself from ever considering a return to Ubisoft, I figure now's the right time to share it.
 
+<!--more-->
+
 *(This is a repost from a cohost post I made about a year ago, but since I don't use cohost anymore I figured it needed a better home.)*
 
 I often found Ubisoft to be a weird place, but nothing was more weird than Ubisoft Montreal's hiring practices in the late aughts. Maybe it was government tax incentives, maybe constantly increasing the headcount looked good... I've heard a lot of stories about why things were the way they were, so I don't know which are real. But I do know for a fact that Ubisoft would hire people who literally could not do their jobs, who never had a chance in hell of doing their jobs, who actively avoided doing their jobs... and who would never get fired for it.
