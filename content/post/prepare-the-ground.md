@@ -5,6 +5,8 @@ date: 2024-05-28
 
 There are enough people who are going to be at PTG that I felt it was useful to put my attendance plan somewhere shareable. 
 
+<!--more-->
+
 Not sure yet if I'll hit The Garrison Thursday. TBD. 
 
 ## Friday May 31st
@@ -16,6 +18,7 @@ Dismal Aura
 
 ### 10:30pm - Lee's Palace
 40 Watt Sun
+
 Emma Ruth Rundle
 
 ## Saturday June 1st
@@ -23,6 +26,7 @@ Emma Ruth Rundle
 ### 4:30pm - Lee's Palace
 Vile Creature (and if I can't get in, I'm going to head to Baby G for They Grieve)
 (6pm break for dinner)
+
 Then Lee's Palace until after Liturgy
 
 ### 10:45pm - The Phoenix
