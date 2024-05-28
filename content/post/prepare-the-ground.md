@@ -9,7 +9,7 @@ Not sure yet if I'll hit The Garrison Thursday. TBD.
 
 ## Friday May 31st
 
-### 9pm - The Garrison
+### 9pm - The Baby G
 Dismal Aura
 
 (I will probably drive between The Garrison and Lee's Palace so I could probably provide a lift)
