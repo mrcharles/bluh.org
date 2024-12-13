@@ -43,7 +43,7 @@ I am deeply lucky to be married to a unionized government worker with one of the
 
 ---
 
-The doctor goes on to tell me that the treatment I need is known as a biologic; it is advanced. It is expensive (at the time, to the tune of $2500 per month). It is most of all effective. But my insurance will not cover it until he proves to them that no other "established treatments" work. Psioratic arthritis is an autoimmune condition (shout out to the ten people who still mask in doctor's offices!), and all treatment involves supressing your immune system. To qualify for any biologics coverage, you have to spend months on strong NSAIDs, and then when those don't work (and I mean when -- they are only effective in something like single digit percentages of cases), you have to spend months on chemotherapy meds. Yes, chemotherapy meds. They work slightly more often.
+The doctor goes on to tell me that the treatment I need is known as a biologic; it is advanced. It is expensive (at the time, to the tune of $2500 per month). It is most of all effective. But my insurance will not cover it until he proves to them that no other "established treatments" work. Psoriatic arthritis is an autoimmune condition (shout out to the ten people who still mask in doctor's offices!), and all treatment involves supressing your immune system. To qualify for any biologics coverage, you have to spend months on strong NSAIDs, and then when those don't work (and I mean when -- they are only effective in something like single digit percentages of cases), you have to spend months on chemotherapy meds. Yes, chemotherapy meds. They work slightly more often.
 
 After a few months of NSAIDs, which didn't work, I'm back at the doctor. I have trouble walking most days; I'm putting on weight because it turns out any attempt at cardiovascular exercise uses your feet. I ask about getting an accessible parking permit. I am given a prescription for methotrexate in pills form.
 
@@ -137,7 +137,7 @@ We are taught and conditioned to believe that doctors can fix you. Television sh
 
 But there's also real evidence that certain things which are not considered medicine can have true, clinically proven, positive impact when treating chronic pain. Much of this is rooted in the fact that even many doctors misunderstand the mechanics of pain, but even if they don't, they believe that everything has a cause, and if something has a cause it can be fixed. This is also often not true. 
 
-The reason I've pointed out that I had good insurance, that I had access to some of the best doctors and treatments, is to point out that the failure of medical systems is not just one of money, but one of tunnel vision. If a doctor believes they can fix you, then you believe they can fix you. But you don't know they can't until you get the time with them. False hope is worse than no nope, because false hope prevents you from reaching a point of acceptance. 
+The reason I've pointed out that I had good insurance, that I had access to some of the best doctors and treatments, is to point out that the failure of medical systems is not just one of money, but one of tunnel vision. If a doctor believes they can fix you, then you believe they can fix you. But you don't know they can't until you get the time with them. False hope is worse than no hope, because false hope prevents you from reaching a point of acceptance. 
 
 ---
 
